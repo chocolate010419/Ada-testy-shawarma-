@@ -1,0 +1,52 @@
+body{
+ background-color: lightyellow 
+ }
+ h1 {
+ color: brown:
+ text-align: center
+    font-family: Consolas, sans-serif;
+    margin-bottom: 30px;
+}
+ }
+ table{
+   width:90%;
+   margin: 20xp auto;
+   border-collapse:collapse;
+ }
+ tb ,th{
+   border:20x solid brown
+   padding:12xp;
+   text-align: center;
+ }
+ th{
+   background-color: brown;
+   color: white;
+ }
+ table {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.welcome {
+    text-align: center;
+    color: brown;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 25px;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    text-align: under center;
+}
+img {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
